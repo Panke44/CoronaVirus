@@ -1,0 +1,32 @@
+body{
+
+    background: url("baner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.baner{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 200px;
+    text-align: center;
+    background: rgb(0, 0, 0, 0.8);
+}
+
+.navbar-brand{
+    padding:20px;
+    border-radius: 25px;
+}
+
+.nav-item{
+    border-bottom: 2px solid;
+    margin:10px;
+}
+.nav-item:hover{
+    background-color: orange;
+    transition: 0.5s ease;
+}
+

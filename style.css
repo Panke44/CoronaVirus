@@ -1,0 +1,37 @@
+body{
+    background-image: url("pozadina.jpg");
+}
+.navbar-brand{
+    padding:20px;
+    border-radius: 25px;
+}
+
+.nav-item{
+    border-bottom: 2px solid;
+    margin:10px;
+}
+.nav-item:hover{
+    background-color: orange;
+    transition: 0.5s ease;
+}
+
+.jumbotron{
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+.naslov{
+    margin:25px;
+    padding:20px;
+    border-radius: 25px;
+    width: fit-content;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+#left-side{
+    margin-left: 25px;
+}
+
